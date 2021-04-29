@@ -1,10 +1,10 @@
-### What is a Hypothesis in Machine Learning?
+# What is a Hypothesis in Machine Learning?
 
 Suprvised machine learning is often described as the problem of approxiamting a target function that maps inputs to outputs.
 
 This description is characterized as searching through and evaluating candidate hypothesis from hypothesis spaces.
 
-#### What is a Hypothesis?
+## What is a Hypothesis?
 
 A hypothesis is an explanation for something.
 
@@ -22,7 +22,7 @@ The hypothesis that best fits the evidence and can be used to make predictions i
 
 
 
-#### What is a Hypothesis in Statistics?
+## What is a Hypothesis in Statistics?
 
 Much of statistics is concerned with the relationship between observations.
 
@@ -45,7 +45,7 @@ If the null hypothesis is rejected, then we assume the alternative hypothesis th
 
 Statistical hypothesis tests don't comment on the size of the effect, only the likelihood of the presence or absence of the effect in the population, based on the observed samples of data.
 
-#### What is a Hypothesis in Machine Learning?
+## What is a Hypothesis in Machine Learning?
 
 Machine Learning, specifically supervised learning can be described as the desire to use available data to learn a function that best maps inputs to outputs.
 
