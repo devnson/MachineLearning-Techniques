@@ -81,22 +81,26 @@ We will see more examples later on and it will be clear how do we choose α.
 **Case 1**: This is a double-tailed test.
 
 
-![1_dq58XDAAJpX-Y_jUz3aP9g.png](attachment:1_dq58XDAAJpX-Y_jUz3aP9g.png)
+![1_dq58XDAAJpX-Y_jUz3aP9g](https://user-images.githubusercontent.com/23405520/116668085-94c6cd80-a9ba-11eb-8bf6-eec37cac5477.png)
+
 
 **Case 2**: This scenario is also called a Left-tailed test.
 
-![1_03yAksAHhK4eZj3q_ervow.png](attachment:1_03yAksAHhK4eZj3q_ervow.png)
+![1_03yAksAHhK4eZj3q_ervow](https://user-images.githubusercontent.com/23405520/116668115-9c867200-a9ba-11eb-9f40-cb7965d74cea.png)
+
 
 **Case 3**: This scenario is also called a Right-tailed test.
 
-![1_JLYkRMlCNvILe72ByNoLOw.png](attachment:1_JLYkRMlCNvILe72ByNoLOw.png)
+![1_JLYkRMlCNvILe72ByNoLOw](https://user-images.githubusercontent.com/23405520/116668135-a314e980-a9ba-11eb-8cf3-6f3800b26509.png)
+
 
 ### Type I and Type II Error
 
 So Type I and type II error is one of the most important topics of hypothesis testing. Let’s simplify it by breaking down this topic into a smaller portion.
 
 
-![0_xtQ3iA03Qn4s2geN.png](attachment:0_xtQ3iA03Qn4s2geN.png)
+![0_xtQ3iA03Qn4s2geN](https://user-images.githubusercontent.com/23405520/116668162-ac9e5180-a9ba-11eb-94c7-5a2f6afc8a6a.png)
+
 
 **A false positive (type I error)** — when you reject a true null hypothesis.
 
