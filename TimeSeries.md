@@ -64,3 +64,6 @@ The raw data sequence is often represented by  xt  beginning at time  t=0 , and 
 ![image](https://user-images.githubusercontent.com/23405520/116808826-83b3c300-ab58-11eb-8193-3a44330921b6.png)
 
 ![image](https://user-images.githubusercontent.com/23405520/116808842-9928ed00-ab58-11eb-98f9-987dd3d13ecc.png)
+
+
+Source: https://www.kaggle.com/freespirit08/time-series-for-beginners-with-arima
